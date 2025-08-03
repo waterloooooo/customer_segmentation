@@ -73,19 +73,3 @@ Clusters might look like this:
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-## 🙋 Contributions
-
-Pull requests are welcome! Feel free to fork the repo, add new features or improvements (e.g. elbow method, 3D clustering), and submit a PR.
-
-```
-
----
-
-Let me know if you'd like me to tailor this for the `.py` version or expand with extras like elbow method, PCA, or cluster profiling.
-```
