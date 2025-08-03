@@ -1,4 +1,3 @@
-```markdown
 # 🛍️ Customer Segmentation with K-Means Clustering
 
 This project uses K-Means clustering to segment customers based on their purchasing behavior using the **Mall Customers** dataset. We focus on two key features: **Annual Income** and **Spending Score**, to identify distinct customer groups that businesses can target more effectively.
