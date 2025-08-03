@@ -32,7 +32,7 @@ customer\_segmentation\_kmeans/
 
 ```bash
 git clone https://github.com/waterloooooo/customer_segmentation.git
-cd customer_segmentation_kmeans
+cd customer_segmentation
 ````
 
 ### 2. Install dependencies
@@ -41,11 +41,23 @@ cd customer_segmentation_kmeans
 pip install pandas scikit-learn matplotlib seaborn
 ```
 
-### 3. Run the notebook
+
+
+### 3. Run the Notebook or Script
+
+To open the notebook:
 
 ```bash
 jupyter notebook customer_segmentation.ipynb
 ```
+
+Or run the Python script directly:
+
+```bash
+python customer_segmentation.py
+```
+
+
 
 ---
 
