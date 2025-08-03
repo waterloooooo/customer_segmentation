@@ -31,7 +31,7 @@ customer\_segmentation\_kmeans/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer_segmentation_kmeans.git
+git clone https://github.com/waterloooooo/customer_segmentation.git
 cd customer_segmentation_kmeans
 ````
 
