@@ -1,7 +1,3 @@
-Here’s a clean and ready-to-paste `README.md` for your **Customer Segmentation (K-Means)** project:
-
----
-
 ```markdown
 # 🛍️ Customer Segmentation with K-Means Clustering
 
