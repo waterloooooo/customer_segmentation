@@ -8,11 +8,10 @@ This project uses K-Means clustering to segment customers based on their purchas
 
 ```
 
-customer\_segmentation\_kmeans/
-├── customer\_segmentation.ipynb     # Jupyter Notebook with full analysis
-├── customer\_segmentation.py        # (Optional) Script version of the notebook
-├── Mall\_Customers.csv              # Customer dataset
-
+customer_segmentation_kmeans/
+├── customer_segmentation.ipynb # Jupyter Notebook with full analysis
+├── customer_segmentation.py # (Optional) Script version of the notebook
+├── Mall_Customers.csv # Customer dataset
 ````
 
 ---
