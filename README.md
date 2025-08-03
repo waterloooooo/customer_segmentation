@@ -29,7 +29,7 @@ customer_segmentation_kmeans/
 ```bash
 git clone https://github.com/waterloooooo/customer_segmentation.git
 cd customer_segmentation_kmeans
-
+```
 
 ---
 
