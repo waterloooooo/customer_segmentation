@@ -7,9 +7,8 @@ This project uses K-Means clustering to segment customers based on their purchas
 ## 📁 Project Structure
 
 ```
-
-customer_segmentation_kmeans/
-├── customer_segmentation.ipynb # Jupyter Notebook with full analysis
+customer_segmentation/
+├── Customer_Segmentation_using_K_Means.ipynb # Jupyter Notebook with full analysis
 ├── customer_segmentation.py # (Optional) Script version of the notebook
 ├── Mall_Customers.csv # Customer dataset
 ````
@@ -47,7 +46,7 @@ pip install pandas scikit-learn matplotlib seaborn
 To open the notebook:
 
 ```bash
-jupyter notebook customer_segmentation.ipynb
+jupyter notebook Customer_Segmentation_using_K_Means.ipynb
 ```
 
 Or run the Python script directly:
